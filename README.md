@@ -1,1 +1,2 @@
-# Development_AOC
+# Desenvolvimento de Aplicações Orientado a Componentes
+TDE e avaliações
